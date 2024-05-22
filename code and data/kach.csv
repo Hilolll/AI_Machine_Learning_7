@@ -1,0 +1,31 @@
+User_ID,Workouts,Membership,Level,Avg_Calories_Burned
+0,15,Premium,Graduate,500
+1,8,Basic,High School,350
+2,22,Premium,Graduate,600
+3,5,Basic,Uneducated,300
+4,12,Standard,Graduate,450
+5,10,Standard,High School,400
+6,18,Premium,Graduate,550
+7,7,Basic,Uneducated,320
+8,20,Premium,High School,570
+9,6,Basic,Graduate,330
+10,14,Standard,High School,480
+11,9,Standard,Uneducated,370
+12,25,Premium,Graduate,620
+13,3,Basic,High School,290
+14,17,Premium,Uneducated,530
+15,11,Standard,Graduate,460
+16,13,Standard,High School,440
+17,4,Basic,Uneducated,310
+18,19,Premium,Graduate,560
+19,21,Premium,High School,580
+20,8,Basic,Graduate,350
+21,16,Standard,Uneducated,500
+22,10,Standard,Graduate,400
+23,12,Standard,High School,450
+24,6,Basic,Uneducated,330
+25,14,Premium,Graduate,500
+26,5,Basic,High School,300
+27,18,Premium,Uneducated,550
+28,9,Standard,Graduate,370
+29,20,Premium,High School,570
